@@ -73,253 +73,253 @@ map2.addEventListener("click",function(event){
 
 cam1.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.27", '_blank');
+    window.open("http://10.2.200.27", '_blank');
 });
 cam2.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.201", '_blank');
+    window.open("http://10.2.200.201", '_blank');
 });
 cam3.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.202", '_blank');
+    window.open("http://10.2.200.202", '_blank');
 });
 cam4.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.202", '_blank');
+    window.open("http://10.2.200.202", '_blank');
 });
 cam5.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.202", '_blank');
+    window.open("http://10.2.200.202", '_blank');
 });
 cam6.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.203", '_blank');
+    window.open("http://10.2.200.203", '_blank');
 });
 cam7.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.201", '_blank');
+    window.open("http://10.2.200.201", '_blank');
 });
 cam8.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.203", '_blank');
+    window.open("http://10.2.200.203", '_blank');
 });
 cam9.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.204", '_blank');
+    window.open("http://10.2.200.204", '_blank');
 });
 cam10.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.204", '_blank');
+    window.open("http://10.2.200.204", '_blank');
 });
 cam11.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.33", '_blank');
+    window.open("http://10.2.200.34", '_blank');
 });
 cam12.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.204", '_blank');
+    window.open("http://10.2.200.204", '_blank');
 });
 cam13.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.34", '_blank');
+    window.open("http://10.2.200.34", '_blank');
 });
 cam14.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.208", '_blank');
+    window.open("http://10.2.200.208", '_blank');
 });
 cam15.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.207", '_blank');
+    window.open("http://10.2.200.207", '_blank');
 });
 cam16.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.207", '_blank');
+    window.open("http://10.2.200.207", '_blank');
 });
 cam17.addEventListener("click",function(){
     alert('admin,gd5150');
-    window.open("https://10.2.200.66", '_blank');
+    window.open("http://10.2.200.66", '_blank');
 });
 cam18.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.65", '_blank');
+    window.open("http://10.2.200.65", '_blank');
 });
 cam19.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.206", '_blank');
+    window.open("http://10.2.200.206", '_blank');
 });
 cam20.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.205", '_blank');
+    window.open("http://10.2.200.205", '_blank');
 });
 cam21.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.208", '_blank');
+    window.open("http://10.2.200.208", '_blank');
 });
 cam22.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.57", '_blank');
+    window.open("http://10.2.200.57", '_blank');
 });
 cam23.addEventListener("click",function(){
-    window.open("https://10.2.200.59", '_blank');
+    window.open("http://10.2.200.59", '_blank');
 });
 cam24.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.28", '_blank');
+    window.open("http://10.2.200.28", '_blank');
 });
 cam25.addEventListener("click",function(){
     alert('admin,gd5150');
-    window.open("https://10.2.200.69", '_blank');
+    window.open("http://10.2.200.69", '_blank');
 });
 cam26.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.61", '_blank');
+    window.open("http://10.2.200.61", '_blank');
 });
 cam27.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.60", '_blank');
+    window.open("http://10.2.200.60", '_blank');
 });
 cam28.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.55", '_blank');
+    window.open("http://10.2.200.55", '_blank');
 });
 cam29.addEventListener("click",function(){
     alert('admin,gd5150');
-    window.open("https://10.2.200.68", '_blank');
+    window.open("http://10.2.200.68", '_blank');
 });
 cam30.addEventListener("click",function(){
-    alert('admin,GD5150');
-    window.open("https://10.2.200.29", '_blank');
+    alert('administrator,GD5150');
+    window.open("http://10.2.200.29", '_blank');
 });
 cam31.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.46", '_blank');
+    window.open("http://10.2.200.47", '_blank');
 });
 cam32.addEventListener("click",function(){
-    alert('administrator,GD5150');
-    window.open("https://10.2.200.30", '_blank');
+    alert('admin,gd5150');
+    window.open("http://10.2.200.30", '_blank');
 });
 cam33.addEventListener("click",function(){
     alert('admin,gd5150');
-    window.open("https://10.2.200.70", '_blank');
+    window.open("http://10.2.200.70", '_blank');
 });
 cam34.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.31", '_blank');
+    window.open("http://10.2.200.31", '_blank');
 });
 cam35.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.32", '_blank');
+    window.open("http://10.2.200.32", '_blank');
 });
 cam36.addEventListener("click",function(){
     alert('admin,gd5150');
-    window.open("https://10.2.200.212", '_blank');
+    window.open("http://10.2.200.212", '_blank');
 });
 cam37.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.211", '_blank');
+    window.open("http://10.2.200.211", '_blank');
 });
 cam38.addEventListener("click",function(){
     alert('admin,gd5150');
-    window.open("https://10.2.200.212", '_blank');
+    window.open("http://10.2.200.212", '_blank');
 });
 cam39.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.209", '_blank');
+    window.open("http://10.2.200.209", '_blank');
 });
 cam40.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.210", '_blank');
+    window.open("http://10.2.200.210", '_blank');
 });
 cam41.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.203", '_blank');
+    window.open("http://10.2.200.203", '_blank');
 });
 cam42.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.56", '_blank');
+    window.open("http://10.2.200.56", '_blank');
 });
 cam43.addEventListener("click",function(){
     alert('administrator,gd5150');
-    window.open("https://10.2.200.72", '_blank');
+    window.open("http://10.2.200.72", '_blank');
 });
 cam44.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.43", '_blank');
+    window.open("http://10.2.200.45", '_blank');
 });
 cam45.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.45", '_blank');
+    window.open("http://10.2.200.46", '_blank');
 });
 cam46.addEventListener("click",function(){
     alert('admin,gd5150');
-    window.open("https://10.2.200.71", '_blank');
+    window.open("http://10.2.200.71", '_blank');
 });
 cam47.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.211", '_blank');
+    window.open("http://10.2.200.211", '_blank');
 });
 cam48.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.210", '_blank');
+    window.open("http://10.2.200.210", '_blank');
 });
 cam49.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.211", '_blank');
+    window.open("http://10.2.200.211", '_blank');
 });
 cam50.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.63", '_blank');
+    window.open("http://10.2.200.63", '_blank');
 });
 cam51.addEventListener("click",function(){
     alert('admin,gd5150');
-    window.open("https://10.2.200.75", '_blank');
+    window.open("http://10.2.200.75", '_blank');
 });
 cam52.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.211", '_blank');
+    window.open("http://10.2.200.211", '_blank');
 });
 cam53.addEventListener("click",function(){
     alert('admin,gd5150');
-    window.open("https://10.2.200.212", '_blank');
+    window.open("http://10.2.200.212", '_blank');
 });
 cam54.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.37", '_blank');
+    window.open("http://10.2.200.38", '_blank');
 });
 cam55.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.36", '_blank');
+    window.open("http://10.2.200.37", '_blank');
 });
 cam56.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.210", '_blank');
+    window.open("http://10.2.200.210", '_blank');
 });
 cam57.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.42", '_blank');
+    window.open("http://10.2.200.43", '_blank');
 });
 cam58.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.39", '_blank');
+    window.open("http://10.2.200.40", '_blank');
 });
 cam59.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.35", '_blank');
+    window.open("http://10.2.200.35", '_blank');
 });
 cam60.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.32", '_blank');
+    window.open("http://10.2.200.33", '_blank');
 });
 cam61.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.40", '_blank');
+    window.open("http://10.2.200.41", '_blank');
 });
 cam62.addEventListener("click",function(){
     alert('admin,GD5150');
-    window.open("https://10.2.200.205", '_blank');
+    window.open("http://10.2.200.205", '_blank');
 });
 cam63.addEventListener("click",function(){
     alert('administrator,GD5150');
-    window.open("https://10.2.200.41", '_blank');
+    window.open("http://10.2.200.42", '_blank');
 });
 
